@@ -33,14 +33,14 @@ Este projeto foi desenvolvido como uma experiência prática em desenvolvimento 
 
 # Sistemas Implementados
 
-✅ Movimentação de personagem em terceira pessoa
-✅ Câmera dinâmica
-✅ Sistema de tiro
-✅ Física 3D
-✅ Colisões e interação com ambiente
-✅ Sistema de inimigos
-✅ Animações de personagem
-✅ Exportação para Windows
+* [x] Movimentação de personagem em terceira pessoa
+* [x] Câmera dinâmica
+* [x] Sistema de tiro
+* [x] Física 3D
+* [x] Colisões e interação com ambiente
+* [x] Sistema de inimigos
+* [x] Animações de personagem
+* [x] Exportação para Windows
 
 ---
 
