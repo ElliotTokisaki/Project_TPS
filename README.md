@@ -1,5 +1,3 @@
-remova os emojis
-
 # TPS Robot
 
 <div align="center">
