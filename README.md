@@ -13,7 +13,7 @@
 
 ## Sobre o Projeto
 
-**TPS Robot** é um jogo de tiro em terceira pessoa desenvolvido na **Godot Engine**, com foco em combate, movimentação 3D e exploração de ambientes futuristas.
+**Project_TPS** é um jogo de tiro em terceira pessoa desenvolvido na **Godot Engine**, com foco em combate, movimentação 3D e exploração de ambientes futuristas.
 
 O jogador controla um robô de combate equipado com armas avançadas, enfrentando ameaças em um cenário industrial tecnológico.
 
